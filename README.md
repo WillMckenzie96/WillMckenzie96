@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WillMckenzie96
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Finance Analytics, Big Data, Neural Networks
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for Entry level jobs in data science
 - 📫 How to reach me - williammckenzie96@gmail.com
 
 <!---
